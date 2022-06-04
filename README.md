@@ -1,1 +1,1 @@
-# estrutura_de_dados_2
+# Algoritmos e Estrutura de Dados 2
